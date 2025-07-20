@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+speechrecognition
+gtts
+beautifulsoup4
+pyaudio
+streamlit_extras
