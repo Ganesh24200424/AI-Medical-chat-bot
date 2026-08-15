@@ -1,0 +1,3 @@
+go to download open ngrok folder then 2 click on ng rock 
+
+ngrok start --all
